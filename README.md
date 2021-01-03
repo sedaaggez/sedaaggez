@@ -5,10 +5,11 @@ I'm Seda. I am Android Developer. I really enjoy learning languages and framewor
 
 Skills: Java / Kotlin / Ionic / Angular / Ruby
 
-- 📫 How to reach me: sedaggez@gmail.com 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez)](https://github.com/anuraghazra/github-readme-stats)
 
+
+- 📫 How to reach me: sedaggez@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sedaaggez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sedaaggez/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez)](https://github.com/anuraghazra/github-readme-stats)
 
