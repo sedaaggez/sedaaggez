@@ -5,7 +5,8 @@ I'm Seda. I am Android Developer. I really enjoy learning languages and framewor
 
 Skills: Java / Kotlin / Ionic / Angular / Ruby
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Seda's github stats](https://github-readme-stats.vercel.app/api?username=sedaaggez)](https://github.com/anuraghazra/github-readme-stats)
