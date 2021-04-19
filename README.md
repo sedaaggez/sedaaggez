@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Seda.
 #### Android Developer
 
-I'm Seda. I am Android Developer. I really enjoy learning languages and framework like Java and Kotlin. I am an enthusiastic, self-motivated, reliable, responsible and hard working person.
+I'm Seda. I am an Android Developer. I really enjoy learning languages and framework like Java and Kotlin. I am an enthusiastic, self-motivated, reliable, responsible and hard working person.
 
 Skills: Java / Kotlin / Ionic / Angular / Ruby
 
