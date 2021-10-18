@@ -5,15 +5,14 @@ I'm Seda. I am an Android Developer. I really enjoy learning languages and frame
 
 Skills: Java / Kotlin / Ionic / Angular / Ruby
 
-#### My Apps
+#### My Android Apps
 - Github Repo List Project 
 - Movies Project 
+- Marvel Project 
 - Weather Forecast 
 - Github Jobs 
 - Disney Characters
-- Marvel Project 
 - Art Institute Collections of Chicago
-- Technical Service Software
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
