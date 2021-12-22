@@ -13,6 +13,7 @@ Skills: Java / Kotlin / Ionic / Angular / Ruby
 - Github Jobs 
 - Disney Characters
 - Art Institute Collections of Chicago
+- Are you bored?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
