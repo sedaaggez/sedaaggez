@@ -15,8 +15,6 @@ Skills: Kotlin / Java / Flutter / Ionic / Angular / Ruby
 - Art Institute Collections of Chicago
 - Are you bored?
 
-![github contribution grid snake animation](https://github.com/sedaaggez/sedaaggez/blob/output/github-contribution-grid-snake.gif)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedaaggez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
